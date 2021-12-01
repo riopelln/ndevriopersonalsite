@@ -27,5 +27,5 @@ end
 
 gem "faraday", "< 1.0"
 
-gem "kramdown-parser-gfm"
+#gem "kramdown-parser-gfm"
 

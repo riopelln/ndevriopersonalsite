@@ -124,6 +124,10 @@ p {
   margin-bottom: 1rem;
 }
 
+li {
+  margin: 1rem 0;
+}
+
 strong {
   color: #303030;
 }
@@ -134,6 +138,14 @@ strong {
 }
 
 .ref:hover {
+  color: #268bd2 !important;
+}
+
+.link{
+  color: #000 !important;
+}
+
+.link:hover {
   color: #268bd2 !important;
 }
 
