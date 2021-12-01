@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.5"
+#gem "jekyll", "~> 3.8.5"
 
 gem "jekyll-theme-tactile"
 
@@ -21,6 +21,11 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-include-cache"
   gem "jekyll-menus"
+  gem "jekyll-mentions"
+  gem "webrick"
 end
 
 gem "faraday", "< 1.0"
+
+gem "kramdown-parser-gfm"
+

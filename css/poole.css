@@ -52,17 +52,17 @@ html {
   font-family: "Helvetica Neue", Helvetica, Arial, Georgia, sans-serif;
   overscroll-behavior: none;
   line-height: 1.5;
-  font-size: 12.8px;
+  font-size: 15.36px;
   scroll-behavior: smooth;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 12.8px;
+    font-size: 15.36px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 14.4px;
+    font-size: 17.28px;
   }
 }
 
@@ -126,6 +126,15 @@ p {
 
 strong {
   color: #303030;
+}
+
+.ref{
+  color: #000 !important;
+  background-color: #DDD;
+}
+
+.ref:hover {
+  color: #268bd2 !important;
 }
 
 
@@ -245,7 +254,7 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  margin: 0 0 2rem;
   border-radius: 4px;
 }
 
