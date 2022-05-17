@@ -25,6 +25,10 @@ My research interests involve designing the next generation of interactive hardw
 
 <table>
 <tr>
+    <td><a href="https://www.youtube.com/watch?v=5p_glarZOdU" target="_blank"><img src="{{ site.baseurl }}assets/r4_pic_sm.jpg" style="margin: 0 auto;"></a></td>
+    <td>K. Ahuja, V. Shen, C. Fang, <strong>N. Riopelle</strong>, A. Kong, C. Harrison, <a class="ref" href="https://dl.acm.org/doi/10.1145/3491102.3502105" target="_blank"><em>ControllerPose: Inside-Out Body Capture with VR Controller Cameras</em></a>, In Proceedings of the International Conference on Human Factors in Computing Systems. (CHI), 2022.</td>
+</tr>
+<tr>
     <td><a href="https://www.youtube.com/watch?v=_7w270dCrqU" target="_blank"><img src="{{ site.baseurl }}assets/r3_pic_sm.jpg" style="margin: 0 auto;"></a></td>
     <td>V. Varga, G. Vakulya, B. Buergisser, <strong>N. Riopelle</strong>, F. Zund, R. Sumner, T. Gross, A. Sample, <a class="ref" href="https://dl.acm.org/doi/10.1145/3430524.3440658" target="_blank"><em>Real-Time Interaction Capture through Physical Contact for Mixed Reality</em></a>, In Proceedings of the International Conference on Tangible, Embedded and Embodied Interaction. (TEI), 2021.</td>
 </tr>
