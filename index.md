@@ -26,16 +26,16 @@ My research interests involve designing the next generation of interactive hardw
 <table>
 <tr>
     <td><a href="https://www.youtube.com/watch?v=5p_glarZOdU" target="_blank"><img src="{{ site.baseurl }}assets/r4_pic_sm.jpg" style="margin: 0 auto;"></a></td>
-    <td>K. Ahuja, V. Shen, C. Fang, <strong>N. Riopelle</strong>, A. Kong, C. Harrison, <a class="ref" href="https://dl.acm.org/doi/10.1145/3491102.3502105" target="_blank"><em>ControllerPose: Inside-Out Body Capture with VR Controller Cameras</em></a>, In Proceedings of the International Conference on Human Factors in Computing Systems. (CHI), 2022.</td>
+    <td>K. Ahuja, V. Shen, C. Fang, <strong>N. Riopelle</strong>, A. Kong, C. Harrison, <a class="ref" href="https://dl.acm.org/doi/10.1145/3491102.3502105" target="_blank"><em>ControllerPose: Inside-Out Body Capture with VR Controller Cameras</em></a>, In CHI Conference on Human Factors in Computing Systems. (CHI), 2022.</td>
 </tr>
 <tr>
     <td><a href="https://www.youtube.com/watch?v=_7w270dCrqU" target="_blank"><img src="{{ site.baseurl }}assets/r3_pic_sm.jpg" style="margin: 0 auto;"></a></td>
-    <td>V. Varga, G. Vakulya, B. Buergisser, <strong>N. Riopelle</strong>, F. Zund, R. Sumner, T. Gross, A. Sample, <a class="ref" href="https://dl.acm.org/doi/10.1145/3430524.3440658" target="_blank"><em>Real-Time Interaction Capture through Physical Contact for Mixed Reality</em></a>, In Proceedings of the International Conference on Tangible, Embedded and Embodied Interaction. (TEI), 2021.</td>
+    <td>V. Varga, G. Vakulya, B. Buergisser, <strong>N. Riopelle</strong>, F. Zund, R. Sumner, T. Gross, A. Sample, <a class="ref" href="https://dl.acm.org/doi/10.1145/3430524.3440658" target="_blank"><em>Real-Time Interaction Capture through Physical Contact for Mixed Reality</em></a>, In Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction. (TEI), 2021.</td>
 </tr>
 <!-- https://www.youtube.com/watch?v=_7w270dCrqU -->
 <tr>
     <td><img src="{{ site.baseurl }}assets/r2_pic_sm.jpg" style="margin: 0 auto;"></td>
-    <td><strong>N. Riopelle</strong>, A. Malatpure, S. Ashtekar, V. Raman, <a class="ref" href="https://ieeexplore.ieee.org/document/8990319" target="_blank"><em>Dependency Graph-based Failure Analysis for Private Clouds</em></a>, In Proceedings of the International Symposium on Software Reliability Engineering. (ISSRE), 2019.</td>
+    <td><strong>N. Riopelle</strong>, A. Malatpure, S. Ashtekar, V. Raman, <a class="ref" href="https://ieeexplore.ieee.org/document/8990319" target="_blank"><em>Dependency Graph-based Failure Analysis for Private Clouds</em></a>, IEEE International Symposium on Software Reliability Engineering Workshops. (ISSREW), 2019.</td>
 </tr>
 <tr>
     <td ><img src="{{ site.baseurl }}assets/r1_pic_sm.jpg" style="margin: 0 auto;"></td>
