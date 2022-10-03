@@ -26,7 +26,7 @@ My research interests involve designing the next generation of interactive hardw
 <table>
 <tr>
     <td><img src="{{ site.baseurl }}assets/r5_pic_sm.jpg" style="margin: 0 auto;"></td>
-    <td><strong>N. DeVrio</strong>, C. Harrison, <a class="ref" href="https://dl.acm.org/doi/10.1145/3491102.3502105" target="_blank"><em>DiscoBand: Multiview Depth-Sensing Smartwatch Strap for Hand, Body, and Environment Tracking.</em></a>, In Proceedings of the ACM Symposium on User Interface Software and Technology. (UIST), 2022.</td>
+    <td><strong>N. DeVrio</strong>, C. Harrison, <a class="ref" href="https://doi.org/10.1145/3526113.3545634" target="_blank"><em>DiscoBand: Multiview Depth-Sensing Smartwatch Strap for Hand, Body, and Environment Tracking.</em></a>, In Proceedings of the ACM Symposium on User Interface Software and Technology. (UIST), 2022.</td>
 </tr>
 <tr>
     <td><a href="https://www.youtube.com/watch?v=5p_glarZOdU" target="_blank"><img src="{{ site.baseurl }}assets/r4_pic_sm.jpg" style="margin: 0 auto;"></a></td>
