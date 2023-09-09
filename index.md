@@ -26,7 +26,7 @@ My research interests involve designing the next generation of interactive hardw
 <table>
 <tr>
     <td><img src="{{ site.baseurl }}assets/r6_pic_sm.jpg" style="margin: 0 auto;"></td>
-    <td><strong>*N. DeVrio</strong>, *V. Mollyn, C. Harrison, <em>SmartPoser: Arm Pose Estimation With a Smartphone and Smartwatch Using UWB and IMU Data.</em></a>, In Proceedings of the ACM Symposium on User Interface Software and Technology. (UIST), 2023.</td>
+    <td><strong>*N. DeVrio</strong>, *V. Mollyn, C. Harrison, <em>SmartPoser: Arm Pose Estimation With a Smartphone and Smartwatch Using UWB and IMU Data.</em>, In Proceedings of the ACM Symposium on User Interface Software and Technology. (UIST), 2023.</td>
 </tr>
 <tr>
     <td><a href="https://www.youtube.com/watch?v=LVk6Yd1AAJg" target="_blank"><img src="{{ site.baseurl }}assets/r5_pic_sm.jpg" style="margin: 0 auto;"></a></td>
