@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            nathan devrio
 description:      "ph.d. student in human-computer interaction"
-url:              http://ndevrio.com
+url:              https://www.ndevrio.com
 baseurl:          /
 
 github:
