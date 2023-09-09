@@ -9,8 +9,8 @@ relative_permalinks: false
 # Setup
 title:            nathan devrio
 description:      "ph.d. student in human-computer interaction"
-url:              http://nriopelle.me
+url:              http://ndevrio.com
 baseurl:          /
 
 github:
-  repo:           https://github.com/riopelln/riopellnpersonalsite
+  repo:           https://github.com/riopelln/ndevriopersonalsite
