@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nathan DeVrio
-description: hi!
+description: nathan's website
 ---
 
 <img src="{{ site.baseurl }}assets/propic_lab40.jpg" class="center" id="about"/>
