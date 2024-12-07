@@ -6,7 +6,7 @@ description: nathan's website
 
 <img src="{{ site.baseurl }}assets/propic_lab40.jpg" class="center" id="about"/>
 
-**Hi, my name is Nathan.** I am a fourth-year Ph.D. student at the <a class="link" href="https://www.hcii.cmu.edu/" target="_blank">Human-Computer Interaction Institute</a> at Carnegie Mellon University. I am advised by <a class="link" href="https://www.chrisharrison.net/" target="_blank">Chris Harrison</a> and am a member of the <a class="link" href="http://www.figlab.com/" target="_blank">Future Interfaces Group</a>.
+**Hi, my name is Nathan.** I am a fifth-year Ph.D. student at the <a class="link" href="https://www.hcii.cmu.edu/" target="_blank">Human-Computer Interaction Institute</a> at Carnegie Mellon University. I am advised by <a class="link" href="https://www.chrisharrison.net/" target="_blank">Chris Harrison</a> and am a member of the <a class="link" href="http://www.figlab.com/" target="_blank">Future Interfaces Group</a>.
 
 My research interests involve designing the next generation of interactive hardware technologies to address existing limitations in performance, capability, and usability. New interfaces should not just fix the shortcomings reported by users of current ones but also enable previously impossible and delightful forms of interaction. Application domains I touch upon include context-aware computing, AR/VR, and smart environments.
 
